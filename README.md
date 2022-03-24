@@ -8,5 +8,6 @@ This was inspired by and forked from [vyos-tailscale](https://github.com/DMarby/
 ## Usage:
 ```bash
 git clone --recursive https://github.com/kylechase/vyos-netmaker.git
+cd vyos-netmaker
 make
 ```
